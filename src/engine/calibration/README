@@ -1,0 +1,3 @@
+This package is intended for scripts used to generate the constants used in image filtering, such as brightness thresholds and mm/pixel,
+etc. These scripts use data samples to find ideal figures, and can be extended to use machine learning techniques for higher
+accuracy, generality, and efficiency.
